@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:id="@+id/splashView">
+
+    <ImageView
+        android:id="@+id/icon_client"
+        android:layout_width="wrap_content"
+        android:layout_height="210dp"
+        android:src="@drawable/icon_client"
+        android:layout_alignParentTop="true"/>
+
+    <TextView
+        android:id="@+id/lbl_welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/icon_client"
+        app:layout_constraintBottom_toBottomOf="@id/icon_client"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="30dp"
+        android:textAlignment="center"
+        android:text="@string/welcome"
+        android:textSize="36sp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:scaleType="fitEnd"
+        android:src="@drawable/background_roadforest" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp">
+
+        <Button
+            android:id="@+id/btnRegister"
+            android:text="@string/register"
+            android:layout_weight="1"
+            android:textSize="18dp"
+            android:layout_marginRight="6dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ripple_signin"
+            android:textColor="@color/backgroundDriver"
+            style="?android:attr/buttonBarButtonStyle" />
+
+    </LinearLayout>
+
+</RelativeLayout>

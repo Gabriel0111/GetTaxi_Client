@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GetTaxi</string>
+    <string name="welcome">Bienvenue sur GetTaxi</string>
+    <string name="phone_number">Telephone</string>
+    <string name="name">Nom</string>
+    <string name="email">Adresse electronique</string>
+    <string name="destination_address">Destination</string>
+    <string name="title_activity_map">Carte</string>
+    <string name="depart">Depart</string>
+    <string name="arrivee">Arrivee</string>
+    <string name="next">CONTINUER</string>
+    <string name="cancel">ANNULER</string>
+    <string name="arrivalLessDeparture">Veuillez entrez une heure d\'arrivee inférieure à l\'heure de depart</string>
+    <string name="arrivalEqualsDeparture">Veuillez entrer des horaires non-égales</string>
+    <string name="enterAName">Veuillez entrez un nom</string>
+    <string name="enterEmail">Veuillez entrez une addresse mail</string>
+    <string name="enterPN">Veuillez entrez un numéro de téléphone</string>
+    <string name="enterDT">Veuillez entrez une heure de depart</string>
+    <string name="enterAT">Veuillez entrez une heure d\'arrivee</string>
+    <string name="informationAboutTravel">Veuillez entrez vos informations personnelles a propos du trajet</string>
+    <string name="correctMail">Veuillez entrez une addresse mail valide</string>
+    <string name="correctPN">Veuillez entrez un numéro de téléphone valide</string>
+    <string name="hello_blank_fragment">Bonjour fragment blanc</string>
+    <string name="register">S\'INSCRIRE</string>
+    <string name="correctDepartureTime">Veuillez entrer une heure de depart valide</string>
+    <string name="correctArrivalTime">Veuillez entrer une heure d\'arrivee valide</string>
+    <string name="routeCalcul">Calcul de l\'itinéraire en cours</string>
+    <string name="impossibleFindRoute">Impossible de trouver un itinéraire</string>
+    <string name="uploadSuccess">Envoie réussi !</string>
+    <string name="send_your_position">Envoyer la position</string>
+    <string name="to">Vers </string>
+    <string name="from">Depuis</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">גט טקסי</string>
+    <string name="welcome">ברוכים הבאים לגט טקסי</string>
+    <string name="register">הרשמה</string>
+    <string name="informationAboutTravel">בבקשה להכניס פרטי הנסיעה</string>
+    <string name="enterPN">בבקשה להכניס מס\' טלפון</string>
+    <string name="arrivalEqualsDeparture">השעות צריכות להיות שונות</string>
+    <string name="enterEmail">בבקשה להכניס דוא\'\'ל</string>
+    <string name="arrivalLessDeparture">שעת ההגעה צריכה להקדים שעת היציאה</string>
+    <string name="enterAT">בבקשה להכניס שעת הגעה</string>
+    <string name="enterAName">בבקשה להכניס שם</string>
+    <string name="enterDT">בבקשה להכניס שעת יציאה</string>
+    <string name="correctPN">בבקשה להכניס מס\' טלפון תקין</string>
+    <string name="correctMail">בבקשה להכניס דוא\'\'ל תקין</string>
+    <string name="correctDepartureTime">בבקשה להכניס שעת יציאה תקינה</string>
+    <string name="correctArrivalTime">בבקשה להכניס שעת הגעה תקינה</string>
+    <string name="phone_number">טלפון</string>
+    <string name="name">שם (באותיות לטיניות)</string>
+    <string name="title_activity_map">מפה</string>
+    <string name="hello_blank_fragment">שלום פרגמנט לבן</string>
+    <string name="email">דוא\'\'ל</string>
+    <string name="destination_address">כתובת הגעה</string>
+    <string name="depart">זמן יציאה</string>
+    <string name="next">המשך</string>
+    <string name="cancel">ביטול</string>
+    <string name="arrivee">זמן הגעה</string>
+    <string name="routeCalcul">חישוב המסלול</string>
+    <string name="impossibleFindRoute">א\'\'א למצוא מסלול</string>
+    <string name="uploadSuccess">נתונים נשלחו בהצלחה!</string>
+    <string name="send_your_position">שלח מקומך</string>
+    <string name="to">ל-</string>
+    <string name="from">מ-</string>
+</resources>

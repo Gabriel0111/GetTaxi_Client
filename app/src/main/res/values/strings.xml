@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GetTaxi</string>
+    <string name="welcome">Welcome on\nGetTaxi App</string>
+    <string name="register">REGISTER</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="destination_address">Destination Address</string>
+    <string name="title_activity_map">Map</string>
+    <string name="depart">Departure</string>
+    <string name="arrivee">Arrival</string>
+    <string name="next">CONTINUE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="arrivalLessDeparture">Please enter an arrival time later that the departure time</string>
+    <string name="arrivalEqualsDeparture">Please enter an non-equal time</string>
+    <string name="enterAName">Please enter a name</string>
+    <string name="enterEmail">Please enter an email address</string>
+    <string name="enterPN">Please enter a phone number</string>
+    <string name="enterDT">Please enter a departure time</string>
+    <string name="enterAT">Please enter an arrival time</string>
+    <string name="informationAboutTravel">Please enter your personal information about the travel</string>
+    <string name="correctMail">Please enter a correct email address</string>
+    <string name="correctPN">Please enter a correct phone number</string>
+    <string name="correctDepartureTime">Please enter a correct departure time</string>
+    <string name="correctArrivalTime">Please enter a correct arrival time</string>
+    <string name="routeCalcul">Calcul of route in progress</string>
+    <string name="impossibleFindRoute">Impossible to find a route</string>
+    <string name="uploadSuccess">Upload Successful!</string>
+    <string name="send_your_position">Send your position</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+</resources>

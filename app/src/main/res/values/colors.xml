@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1fbad6</color>
+    <color name="colorPrimaryDark">#008aa5</color>
+    <color name="colorPrimaryLight">#6aedff</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorSecondary">#971fd6</color>
+    <color name="colorSecondaryLight">#cc59ff</color>
+    <color name="colorSecondaryDark">#6200a3</color>
+
+    <color name="background">#EBF5FB</color>
+    <color name="backgroundDriver">#FDEDEC</color>
+    <color name="black">#000</color>
+
+    <color name="rippleEffectColor">#3ED61F</color>
+    <color name="btnSignIn">#1fbad6</color>
+    <color name="btnRegister">#83838c</color>
+
+
+</resources>
